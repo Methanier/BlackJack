@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 23a79b6c3d474b34eaccf7f408ae4670
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Chip_
+    100002: Chip_1
+    100004: Chip_1 1
+    100006: Chip_10
+    100008: Chip_11
+    100010: Chip_12
+    100012: Chip_13
+    100014: Chip_14
+    100016: Chip_15
+    100018: Chip_16
+    100020: Chip_2
+    100022: Chip_2 1
+    100024: Chip_3
+    100026: Chip_3 1
+    100028: Chip_4
+    100030: Chip_4 1
+    100032: Chip_4_Ins
+    100034: Chip_5
+    100036: Chip_6
+    100038: Chip_7
+    100040: Chip_8
+    100042: Chip_9
+    100044: //RootNode
+    100046: Zylinder_R
+    400000: Chip_
+    400002: Chip_1
+    400004: Chip_1 1
+    400006: Chip_10
+    400008: Chip_11
+    400010: Chip_12
+    400012: Chip_13
+    400014: Chip_14
+    400016: Chip_15
+    400018: Chip_16
+    400020: Chip_2
+    400022: Chip_2 1
+    400024: Chip_3
+    400026: Chip_3 1
+    400028: Chip_4
+    400030: Chip_4 1
+    400032: Chip_4_Ins
+    400034: Chip_5
+    400036: Chip_6
+    400038: Chip_7
+    400040: Chip_8
+    400042: Chip_9
+    400044: //RootNode
+    400046: Zylinder_R
+    2100000: white
+    2300000: Chip_
+    2300002: Chip_1
+    2300004: Chip_1 1
+    2300006: Chip_10
+    2300008: Chip_11
+    2300010: Chip_12
+    2300012: Chip_13
+    2300014: Chip_14
+    2300016: Chip_15
+    2300018: Chip_16
+    2300020: Chip_2
+    2300022: Chip_2 1
+    2300024: Chip_3
+    2300026: Chip_3 1
+    2300028: Chip_4
+    2300030: Chip_4 1
+    2300032: Chip_4_Ins
+    2300034: Chip_5
+    2300036: Chip_6
+    2300038: Chip_7
+    2300040: Chip_8
+    2300042: Chip_9
+    2300044: Zylinder_R
+    3300000: Chip_
+    3300002: Chip_1
+    3300004: Chip_1 1
+    3300006: Chip_10
+    3300008: Chip_11
+    3300010: Chip_12
+    3300012: Chip_13
+    3300014: Chip_14
+    3300016: Chip_15
+    3300018: Chip_16
+    3300020: Chip_2
+    3300022: Chip_2 1
+    3300024: Chip_3
+    3300026: Chip_3 1
+    3300028: Chip_4
+    3300030: Chip_4 1
+    3300032: Chip_4_Ins
+    3300034: Chip_5
+    3300036: Chip_6
+    3300038: Chip_7
+    3300040: Chip_8
+    3300042: Chip_9
+    3300044: Zylinder_R
+    4300000: Chip_4_Ins
+    4300002: Chip_4
+    4300004: Chip_9
+    4300006: Chip_
+    4300008: Chip_10
+    4300010: Chip_1
+    4300012: Chip_11
+    4300014: Chip_2
+    4300016: Chip_12
+    4300018: Chip_3
+    4300020: Chip_13
+    4300022: Chip_14
+    4300024: Chip_5
+    4300026: Chip_15
+    4300028: Chip_6
+    4300030: Chip_16
+    4300032: Chip_7
+    4300034: Chip_8
+    4300036: Zylinder_R
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
